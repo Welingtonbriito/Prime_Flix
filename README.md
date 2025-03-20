@@ -36,7 +36,7 @@ Ele apresenta um design moderno e uma estrutura responsiva, garantindo uma ótim
 
 ## 🔗 Acesse o Projeto 
  
- 🌎 **Deploy Online:** [Clique aqui](https://bit.ly/landingpagebarber) 
+ 🌎 **Deploy Online:** [Clique aqui](https://prime-flix-rose.vercel.app/) 
 
 ---
  

@@ -1,4 +1,4 @@
-#  Prime Flix
+# 🎞️ Prime Flix
 
 > Um site moderno e responsivo desenvolvido para gerar filmes que estão em cartaz, ultilizando uma API externa. 
 
